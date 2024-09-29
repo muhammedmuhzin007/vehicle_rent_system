@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.ovr-lay{
+    background: var(--white);
+    box-shadow: 0 2px 5px 0 #0000001a;
+    box-sizing: border-box;
+    height: 110px;
+    width: 100%;
+}
+.bi-arrow-left{
+    position: absolute;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 25px;
+    color: black;
+
+}
+.prod-img{
+    position: absolute;
+    width: 600px;
+    height: 700px;
+    margin-left: 200px;
+    margin-top: 70px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.veh-name{
+    position: absolute;
+    font-size: 70px;
+    margin-left: 850px;
+    margin-top: 150px;
+}
+.veh-number{
+    position: absolute;
+    font-size: 40px;
+    margin-left: 1000px;
+    margin-top: 230px;
+}
+.veh-price{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 850px;
+    margin-top: 340px;
+    font-weight: bolder;
+}
+.aval-date{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 850px;
+    margin-top: 410px;
+    font-weight: bolder;
+}
+.veh-clr{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 850px;
+    margin-top: 485px;
+    font-weight: bolder;
+}
+.owner-name{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 1300px;
+    margin-top: 350px;
+    font-weight: bolder;
+}
+.owner-number{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 1300px;
+    margin-top: 415px;
+    font-weight: bolder;
+}
+.owner-address{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 1300px;
+    margin-top: 485px;
+    font-weight: bolder;
+}
+.order-btn{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 850px;
+    margin-top: 670px;
+    font-weight: 20px;
+    border-radius: 5px;
+    width: 400px;
+    height: 100px;
+    cursor: pointer;
+}
+.order-btn:hover{
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}

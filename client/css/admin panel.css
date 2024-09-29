@@ -1,0 +1,138 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+#admin_logo{
+  font-style: italic;
+  font-size:xx-large;
+  color: white;
+  margin-top: 50px;
+  margin-left: 60px;
+}
+.div_1{
+  position: relative;
+  background-color:#404040;
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 500px;
+  height: 300px;
+  border-radius: 25px;
+  float: left;
+}
+.div_2{
+  position: relative;
+  background-color:#404040;
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 500px;
+  height: 300px;
+  border-radius: 25px;
+  float: left;
+}
+.div_3{
+  position: relative;
+  background-color:#404040;
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 500px;
+  height: 300px;
+  border-radius: 25px;
+  float: left;
+}
+.div_4{
+  position: relative;
+  background-color:#404040;
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 500px;
+  height: 300px;
+  border-radius: 25px;
+  float: left;
+}
+.div_5{
+  position: relative;
+  background-color:#404040;
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 500px;
+  height: 300px;
+  border-radius: 25px;
+  float: left;
+}
+.div_6{
+  position: relative;
+  background-color:#404040;
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 500px;
+  height: 300px;
+  border-radius: 25px;
+  float: left;
+}
+.bi-people-fill{
+  position: absolute;
+  margin-left: 250px;
+  margin-top: 200px;
+  z-index: 1;
+  color: #9F9F9F;
+}
+.bi-car-front-fill{
+  position: absolute;
+  font-size: 200px;
+  margin-left:150px;
+  top: 50px;
+  z-index: 1;
+  color: #9F9F9F;
+}
+.bi-person-fill
+{
+  position: absolute;
+  font-size: 200px;
+  margin-left:150px;
+  top: 50px;
+  z-index: 1;
+  color: #9F9F9F;
+}
+.bi-person-lock{
+  position: absolute;
+  font-size: 200px;
+  margin-left:140px;
+  top: 40px;
+  z-index: 1;
+  color: #9F9F9F;
+}
+.bi-truck{
+  position: absolute;
+  font-size: 200px;
+  margin-left:140px;
+  top: 40px;
+  z-index: 1;
+  color: #9F9F9F;
+}
+.bi-gear{
+  position: absolute;
+  font-size: 200px;
+  margin-left:140px;
+  top: 40px;
+  z-index: 1;
+  color: #9F9F9F;
+}
+.bi-wrench{
+  position: absolute;
+  font-size: 100px;
+  margin-left:240px;
+  top: 140px;
+  z-index: 1;
+  color: #1e1c1c;
+}
+.bi-people-fill{
+  position: absolute;
+  font-size: 200px;
+  margin-left:140px;
+  margin-top: 10px;
+  top: 40px;
+  z-index: 1;
+  color: #9F9F9F;
+}

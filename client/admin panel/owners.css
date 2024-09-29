@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+.a{
+    width: 1380px;
+    height: 250px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 500px;
+    border-radius: 20px;
+}
+.side{
+    position: absolute;
+    width:490px;
+    height:auto;
+    background-color:rgb(2, 40, 96);
+}
+.text1{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 34px;
+    color: white;
+}
+.user-img{
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+.usr-data{
+    position: relative;
+    margin-top:10px;
+    margin-left: 300px;
+    font-size: 32px;
+}
